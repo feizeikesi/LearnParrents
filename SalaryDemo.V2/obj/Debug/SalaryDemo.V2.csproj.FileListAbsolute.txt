@@ -1,0 +1,5 @@
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.V2\bin\Debug\SalaryDemo.V2.dll
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.V2\bin\Debug\SalaryDemo.V2.pdb
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.V2\obj\Debug\SalaryDemo.V2.dll
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.V2\obj\Debug\SalaryDemo.V2.pdb
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.V2\obj\Debug\SalaryDemo.V2.csprojResolveAssemblyReference.cache

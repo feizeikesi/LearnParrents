@@ -1,0 +1,6 @@
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.CMD\bin\Debug\SalaryDemo.CMD.exe.config
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.CMD\bin\Debug\SalaryDemo.CMD.exe
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.CMD\bin\Debug\SalaryDemo.CMD.pdb
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.CMD\obj\Debug\SalaryDemo.CMD.csprojResolveAssemblyReference.cache
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.CMD\obj\Debug\SalaryDemo.CMD.exe
+D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.CMD\obj\Debug\SalaryDemo.CMD.pdb
