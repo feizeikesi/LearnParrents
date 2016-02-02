@@ -1,7 +1,11 @@
 ﻿
 namespace SalaryDemo.V2
 {
-    public class HoldMethod : PayemntMethod
+    public class HoldMethod : IPayemntMethod
     {
+        public void Pay(Paycheck paycheck)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

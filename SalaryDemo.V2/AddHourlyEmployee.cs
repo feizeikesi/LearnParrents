@@ -8,7 +8,7 @@
             _hourlyRate = hourlyRate;
         }
 
-        protected override PaymentClassification MakeClassification()
+        protected override IPaymentClassification MakeClassification()
         {
             return new HourlyClassification(_hourlyRate);
         }

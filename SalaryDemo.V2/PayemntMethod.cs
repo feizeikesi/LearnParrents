@@ -1,6 +1,7 @@
 ﻿namespace SalaryDemo.V2
 {
-    public class PayemntMethod
+    public interface IPayemntMethod
     {
+       void Pay(Paycheck paycheck);
     }
 }

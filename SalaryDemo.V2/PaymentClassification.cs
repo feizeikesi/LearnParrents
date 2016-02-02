@@ -1,7 +1,7 @@
 ﻿namespace SalaryDemo.V2
 {
-    public class PaymentClassification
+    public interface IPaymentClassification
     {
-
+        double CalculatePay(Paycheck paycheck);
     }
 }

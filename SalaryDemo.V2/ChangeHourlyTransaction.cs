@@ -8,7 +8,7 @@
             _hourlyRate = hourlyRate;
         }
 
-        public override PaymentClassification Classification
+        public override IPaymentClassification Classification
         {
             get { return new HourlyClassification(_hourlyRate);}
         }

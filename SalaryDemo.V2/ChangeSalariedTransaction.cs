@@ -8,7 +8,7 @@ namespace SalaryDemo.V2
         {
         }
 
-        public override PaymentClassification Classification
+        public override IPaymentClassification Classification
         {
             get { throw new NotImplementedException(); }
         }

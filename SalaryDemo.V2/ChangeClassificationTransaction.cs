@@ -12,7 +12,7 @@
             employee.Schedule = Schedule;
         }
 
-        public abstract PaymentClassification Classification { get; }
+        public abstract IPaymentClassification Classification { get; }
 
         public abstract IPaymentSchedule Schedule { get;  }
     }

@@ -15,5 +15,10 @@ namespace SalaryDemo.V2
         {
             return IsLastDayOfMonth(payDate);
         }
+
+        public DateTime GetPayPeriodStartDate(DateTime date)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

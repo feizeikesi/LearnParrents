@@ -10,7 +10,7 @@
         }
 
 
-        protected override PaymentClassification MakeClassification()
+        protected override IPaymentClassification MakeClassification()
         {
             return new SalariedClassification(_salary);
         }

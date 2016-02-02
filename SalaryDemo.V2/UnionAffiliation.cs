@@ -23,5 +23,30 @@ namespace SalaryDemo.V2
         {
             list.Add(serviceCharge);
         }
+
+        public double CalculateDeductions(Paycheck paycheck)
+        {
+            double totalDues = 0;
+            int fridays = NumberOfFridaysInPayPeriod(paycheck.PayPeriodStartDate, paycheck.PayPeriodEndDate);
+
+            totalDues = Dues*fridays;
+            return totalDues;
+        }
+
+        private int NumberOfFridaysInPayPeriod(DateTime payPeriodStartDate, DateTime payPeriodEndDate)
+        {
+            int fridays = 0;
+
+      
+            for (DateTime day = payPeriodStartDate; day <= payPeriodEndDate;day.AddDays(1))
+            {
+                if (day.DayOfWeek==DayOfWeek.Friday)
+                {
+                    fridays++;
+                }
+            }
+
+            return fridays;
+        }
     }
 }

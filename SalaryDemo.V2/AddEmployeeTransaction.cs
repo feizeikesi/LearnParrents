@@ -16,15 +16,15 @@
             _address = address;
         }
 
-        protected abstract PaymentClassification MakeClassification();
+        protected abstract IPaymentClassification MakeClassification();
         protected abstract IPaymentSchedule MakeSchedule();
 
 
         public int Execute()
         {
-            PaymentClassification pc = MakeClassification();
+            IPaymentClassification pc = MakeClassification();
             IPaymentSchedule ps = MakeSchedule();
-            PayemntMethod  pm=new HoldMethod();
+            IPayemntMethod  pm=new HoldMethod();
 
             Employee employee=new Employee();
             employee.Id = _empid;

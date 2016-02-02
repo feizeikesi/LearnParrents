@@ -5,3 +5,10 @@ D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.Model\bin\Debug\SalaryDemo.CMD.pdb
 D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.Model\obj\Debug\SalaryDemo.V1.csprojResolveAssemblyReference.cache
 D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.Model\obj\Debug\SalaryDemo.V1.dll
 D:\CODE\Yanglei\Project\SalaryDemo\SalaryDemo.Model\obj\Debug\SalaryDemo.V1.pdb
+E:\Yanglei\LearnParrents\SalaryDemo.Model\bin\Debug\SalaryDemo.V1.dll
+E:\Yanglei\LearnParrents\SalaryDemo.Model\bin\Debug\SalaryDemo.V1.pdb
+E:\Yanglei\LearnParrents\SalaryDemo.Model\bin\Debug\SalaryDemo.CMD.exe
+E:\Yanglei\LearnParrents\SalaryDemo.Model\bin\Debug\SalaryDemo.CMD.pdb
+E:\Yanglei\LearnParrents\SalaryDemo.Model\obj\Debug\SalaryDemo.V1.csprojResolveAssemblyReference.cache
+E:\Yanglei\LearnParrents\SalaryDemo.Model\obj\Debug\SalaryDemo.V1.dll
+E:\Yanglei\LearnParrents\SalaryDemo.Model\obj\Debug\SalaryDemo.V1.pdb

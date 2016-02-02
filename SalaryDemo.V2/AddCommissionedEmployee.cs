@@ -23,7 +23,7 @@ namespace SalaryDemo.V2
             _commissionRate = commissionRate;
         }
 
-        protected override PaymentClassification MakeClassification()
+        protected override IPaymentClassification MakeClassification()
         {
             return new CommissionedClassification();
         }
